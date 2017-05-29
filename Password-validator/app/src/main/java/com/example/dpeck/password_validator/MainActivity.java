@@ -12,6 +12,10 @@ import com.example.dpeck.password_validator.R;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * Created by dpeck on 2017-05-28.
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
